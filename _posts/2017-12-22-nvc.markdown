@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Nonviolent Communication"
+author: A. C.
+date:   2017-12-22
+category: Communication
+keywords: Book Review
+abstract: 
+---
