@@ -14,23 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Studio
-email: anna.chen.lc@gmail.com
-# description:  
-# tagline: 
+email: TheStudio855@gmail.com
+description:  Collections of book reviews, audio reviews, life experiences
+tagline: Source of Inspiration
 location: San Francisco
 date: true
 baseurl: "/thestudio" # the subpath of your site, e.g. /blog
 url: "https://achenlc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Anna Chen
+author: A. C.
 
 logo: /assets/logo.png
 
 lang: en
-
-social:
-  name: Anna Chen
-  links:
-    - https://github.com/achenlc
 
 # Build settings
 exclude: README.md
