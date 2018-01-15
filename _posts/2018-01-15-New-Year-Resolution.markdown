@@ -24,7 +24,7 @@ This year, I changed my strategy to set massive new year resolutions. I used an 
 
 # Corporate Planning Strategy
 
-In most companies, teams set quarterly, semiannually and annually goals. During the planning seasons, team leaders look back in the past, find out what they did well and what needs to be improved on, figure out the priorities for the next 6-12 months. Then every few months they sit down and check how much progress they have made, and what needs to be worked on more in the rest of the time. This planning process is critical for clarify priorities, setting visions and ensure success.
+In most companies, teams set quarterly, semiannually and annually goals. During the planning seasons, team leaders look back in the past, find out what they did well and what needs to be improved on, figure out the priorities for the next 6-12 months. Then every few months they sit down and check how much progress they have made, and what needs to be worked on more in the rest of the time. This planning process is critical for clarifying priorities, setting visions and ensuring success.
 
 Inspired by this strategy, one very effective way to deal with new year resolutions is to set aside certain amount of time each quarter, think about 1. the past, celebrate the good and adjust the not-so-good, 2. quarterly, semiannually and annually goals, 3. top priorities. 
 
