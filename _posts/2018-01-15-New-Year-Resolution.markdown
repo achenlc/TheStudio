@@ -4,7 +4,7 @@ title:  "Beginning of 2018: New Year Resolutions"
 author: A. C.
 date:   2018-01-15
 category: Personal Development
-keywords: Goal Setting, Growth
+keywords: Effective Planning
 abstract: 
 ---
 
